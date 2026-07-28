@@ -65,7 +65,6 @@ Order_Year
 FROM DATACO_RAW GROUP BY Order_Month,Order_Year;
 
 
-
 SELECT 
 ROUND(AVG(Shipping_Delay),2) AS AVG_SHIPING_DELAY,
 Order_Month,
