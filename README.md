@@ -131,41 +131,41 @@ The analysis produced several executive-level KPIs, including:
     Global-Sales-Supply-Chain-Analytics/
     │
     ├── assets/
-    │   ├── README.md
-    │   └── project_cover.png
+    │   ├── project_cover.png
+    │   └── README.md
     │
     ├── dashboard/
-    │   ├── README.md
     │   ├── 01 Global Supply Chain Performance Dashboard.jpg
     │   ├── 02 Sales & Profit Analysis Dashboard.jpg
     │   ├── 03 Customer & Market Performance Dashboard.jpg
     │   ├── 04 Supply Chain & Delivery Analytics Dashboard.jpg
-    │   └── 05 Key Insights & Strategic Recommendations Dashboard.jpg
+    │   ├── 05 Key Insights & Strategic Recommendations Dashboard.jpg
+    │   └── README.md
     │
     ├── data/
     │   └── README.md
     │
     ├── powerbi/
-    │   ├── README.md
     │   ├── Global_Sales_Supply_Chain_Analytics.pbix
-    │   └── Global_Sales_Supply_Chain_Analytics.pdf
+    │   ├── Global_Sales_Supply_Chain_Analytics.pdf
+    │   └── README.md
     │
     ├── python/
-    │   ├── README.md
-    │   └── data_cleaning.py
+    │   ├── data_cleaning.py
+    │   └── README.md
     │
     ├── snowflake/
-    │   ├── README.md
-    │   └── snowflake_query_execution.png
+    │   ├── snowflake_query_execution.png
+    │   └── README.md
     │
     ├── sql/
-    │   ├── README.md
     │   ├── 00_setup.sql
     │   ├── 01_load data.sql
     │   ├── 1_executive_analysis.sql
     │   ├── 2_sales_profit_analysis.sql
     │   ├── 3_customer_market_analysis.sql
-    │   └── 4_supply_chain_delivery_analysis.sql
+    │   ├── 4_supply_chain_delivery_analysis.sql
+    │   └── README.md
     │
     └── README.md
 
